@@ -1,7 +1,7 @@
-# how-many-connected-components-are-available-in-this-pic
-In this project the goal is finding out the number of connected components in the image in the presence of noise and poor lighting conditions
-we took advantage of morphology operations to remove noise the result is shown below:
+# face detection using deep learning
+In this project the goal is to detect the faces using a deep learning model and then blur the detected faces...the result will be sth like this:
 
 
+![Untitled](https://github.com/user-attachments/assets/507aa3f8-a26d-4da8-9a3b-855d0d8a07ab)
 
-![sample](https://github.com/user-attachments/assets/b634f39a-bcac-4fbd-88aa-f546f02a0545)
+
